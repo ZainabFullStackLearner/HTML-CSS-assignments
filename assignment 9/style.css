@@ -1,0 +1,106 @@
+html{
+  margin-left: 20px;
+}
+h1{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+h2{
+  font-family:'sans-serif';
+
+  text-shadow: 5px 7px 7px  rgba(36, 29, 29, 0.5);
+  text-align: justify;
+  color: rgb(42, 38, 38);
+  margin-bottom: 34px;
+  letter-spacing: normal;
+}
+.main{
+  font-size: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+  line-height: 25px;
+  letter-spacing: normal;
+  margin-top: 5px;
+  word-spacing: 4px;
+  margin-bottom: 35px;
+}
+ul{
+
+  margin-left: 15px;
+  line-height:46px ;
+  font-size: 20px;
+}
+h3{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.ba{
+  list-style:disc;
+  
+   color: blue;
+}
+ul li::marker {
+  color:black; /* Change the bullet color */
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+.c{
+  font-size: 30px;
+}
+#computing{
+  font-size: 30px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 25px;
+  letter-spacing: normal;
+  margin-top: 5px;
+  word-spacing: 4px;
+  margin-bottom: 35px;
+}
+#artificial{
+  font-size: 30px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+line-height: 25px;
+  letter-spacing: normal;
+  margin-top: 5px;
+  word-spacing: 4px;
+  margin-bottom: 35px;
+
+}
+#block{
+  font-size: 30px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+line-height: 25px;
+  letter-spacing: normal;
+  margin-top: 5px;
+  word-spacing: 4px;
+  margin-bottom: 35px;
+
+}
+#thing{
+  font-size: 30px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+line-height: 25px;
+  letter-spacing: normal;
+  margin-top: 5px;
+  word-spacing: 4px;
+  margin-bottom: 35px;
+}
+.by{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 19px;
+  text-decoration: underline;
+  color: rgb(42, 15, 196);
+  text-align: center;
+}
+.bs{
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: -1.2px;
+  font-style: italic;
+
+  }

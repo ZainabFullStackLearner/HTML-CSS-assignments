@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4; /* Light background color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+ 
+}
+
+.card {
+  background-color: white; /* Card background color */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  width: 300px; /* Card width */
+  overflow: hidden; 
+ align-items: center;
+
+  margin-right: 6%;
+}
+
+.card-image {
+  width: 100%; /* Full width for the image */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.card-content {
+  padding: 16px; /* Padding around the content */
+}
+
+.card-title {
+  font-size: 24px; /* Title font size */
+  margin: 0 0 8px; /* Margin below the title */
+}
+
+.card-description {
+  font-size: 16px; /* Description font size */
+  color: #555; /* Dark gray color for description */
+  margin-bottom: 16px; /* Margin below the description */
+}
+
+.card-button {
+  display: inline-block; /* Button as an inline block */
+  padding: 10px 20px; /* Button padding */
+  background-color: #007BFF; /* Button background color */
+  color: white; /* Button text color */
+  text-decoration: none; /* Remove underline */
+  border-radius: 3px;
+  transition: background-color 0.3s; /* Smooth background transition */
+}
+
+.card-button:hover {
+  background-color: #0056b3; 
+}
